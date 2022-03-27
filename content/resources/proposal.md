@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6f7acef1-968a-9408-115f-e893aadb8a97
 resourcetype: Document
 title: proposal.pdf
 uid: f7060d10-04ab-12d8-18c2-c329d59d2162

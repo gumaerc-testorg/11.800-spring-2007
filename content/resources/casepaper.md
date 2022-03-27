@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6f7acef1-968a-9408-115f-e893aadb8a97
 resourcetype: Document
 title: casepaper.pdf
 uid: 281c5a01-256f-3fa7-1541-692d16b6eefa
