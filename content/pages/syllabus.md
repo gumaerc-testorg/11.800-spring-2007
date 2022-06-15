@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on course
+  meeting times, structure, format and requirements, grading, democracy (and responsibility)
+  in the classroom, and course materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

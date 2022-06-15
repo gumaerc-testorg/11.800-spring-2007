@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the case paper and final paper assignments, sample
+  papers, and guidelines for the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,11 +14,11 @@ This section describes the case paper and final paper assignments. All student w
 Case Paper
 ----------
 
-Assignment ([PDF]({{< baseurl >}}/resources/casepaper))
+Assignment ({{% resource_link 281c5a01-256f-3fa7-1541-692d16b6eefa "PDF" %}})
 
-Proposal ([PDF]({{< baseurl >}}/resources/proposal)), Sample Paper 1 ([PDF]({{< baseurl >}}/resources/paper1)), and Feedback ([PDF]({{< baseurl >}}/resources/feedback1))
+Proposal ({{% resource_link f7060d10-04ab-12d8-18c2-c329d59d2162 "PDF" %}}), Sample Paper 1 ({{% resource_link 15a17cdc-f2d3-d399-6375-168becc3c5ed "PDF" %}}), and Feedback ({{% resource_link fe6746c0-1432-857b-d709-968a16b3afd1 "PDF" %}})
 
-Sample Paper 2 ([PDF]({{< baseurl >}}/resources/paper2))
+Sample Paper 2 ({{% resource_link af594d07-054d-d56a-15ea-985637fcd93f "PDF" %}})
 
 Guidelines for Final Paper
 --------------------------
