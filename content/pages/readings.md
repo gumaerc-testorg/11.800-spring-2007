@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links for course readings, tips and
+  questions, and the schedule of readings by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 80328e79-d355-5633-b533-3a7973455daf
 ---
@@ -47,7 +52,7 @@ Overview of the course - the faculty, objectives, format, and requirements. Firs
 
 ### Models of knowledge production and decision-making
 
-The rational policy/planning model, muddling through, deliberation and social learning. ([PDF]({{< baseurl >}}/resources/read2))
+The rational policy/planning model, muddling through, deliberation and social learning. ({{% resource_link 25c5e94a-0b96-4710-b187-45f97d542cd1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,7 +82,7 @@ Scott, James. _Seeing Like a State: How Certain Schemes to Improve the Human Con
 
 ### Agendas and the policy process
 
-The importance of agenda-setting and other "pre-decision" processes in policymaking. The Kingdon model and its critics; the role of narrative. ([PDF]({{< baseurl >}}/resources/read3))
+The importance of agenda-setting and other "pre-decision" processes in policymaking. The Kingdon model and its critics; the role of narrative. ({{% resource_link 0fa09fe6-2b16-123a-5aec-dcafa071c7f1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -105,7 +110,7 @@ Sabatier, Paul ed. "Fostering the Development of Policy Theory." In _Theories of
 
 ### Frames and persuasion
 
-Storytelling, metaphor, and frames. Alignment among frames, institutional context, and policy and political streams ([PDF]({{< baseurl >}}/resources/read4))
+Storytelling, metaphor, and frames. Alignment among frames, institutional context, and policy and political streams ({{% resource_link cf0df5a1-dfa8-5f6b-61fb-11757eed6631 "PDF" %}})
 
 Guest: Jal Mehta, Harvard Graduate School of Education
 
@@ -145,7 +150,7 @@ Schon, Donald. "Generative Metaphor: A Perspective on Problem Setting in Social 
 
 ### Paradigms and fads
 
-Design and urban form, urban utopias, popular culture and the Good City. ([PDF]({{< baseurl >}}/resources/read5))
+Design and urban form, urban utopias, popular culture and the Good City. ({{% resource_link da876123-42a3-8617-3d95-49d7e77faad1 "PDF" %}})
 
 Guest: Lawrence Vale, MIT
 
@@ -177,7 +182,7 @@ Fainstein, Susan. "New Directions in Planning Theory." _Urban Affairs Review_ 35
 
 ### Diffusion of innovation
 
-Creating and diffusing innovation, "structured" diffusion, replication and mimicking. ([PDF]({{< baseurl >}}/resources/read6))
+Creating and diffusing innovation, "structured" diffusion, replication and mimicking. ({{% resource_link 7edd7756-6c2c-e4f1-81b0-8c17b59b10fd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -205,7 +210,7 @@ Gladwell, Malcolm. "Six Degrees of Lois Weisberg," _The New Yorker_, January 199
 
 ### Case of anti-poverty policy and research
 
-The Moving to Opportunity experiment as a social policy case, political and fiscal context, images of ghetto poverty, the Hurricane Katrina media effect. ([PDF]({{< baseurl >}}/resources/read7))
+The Moving to Opportunity experiment as a social policy case, political and fiscal context, images of ghetto poverty, the Hurricane Katrina media effect. ({{% resource_link 2a6da998-96a6-a2c4-bbb5-7f59e37e7ce9 "PDF" %}})
 
 Guest: Jeffrey Liebman, Harvard Kennedy School of Government
 
@@ -235,7 +240,7 @@ MIT Communications Office. "How to Work With the News Media to Tell Your Story."
 
 ### Science in environmental policy disputes
 
-Science-intensive disputes, "experts for hire", joint fact finding. ([PDF]({{< baseurl >}}/resources/read8))
+Science-intensive disputes, "experts for hire", joint fact finding. ({{% resource_link 03abf987-e0cc-8523-f3bd-19ff01d6b254 "PDF" %}})
 
 Guest: Lawrence Susskind, MIT and the Consensus Building Institute
 
@@ -246,9 +251,9 @@ Guest: Lawrence Susskind, MIT and the Consensus Building Institute
 
 Ehrmann, John R., and Barbara L. Stinson. "Joint Fact Finding and the Use of Technical Experts." In _The Consensus Building Handbook_. Edited by Lawrence Susskind, et al. Thousand Oaks, CA: Sage, 1999, pp. 375-399. ISBN: 9780761908449.
 
-Lenard, Steven R., and Ian J. Finlayson. "The Role of the Scientist in Collaborative Environmental Policy Making." MIT-USGS Science Impact Collaborative. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard_fsonfinal))
+Lenard, Steven R., and Ian J. Finlayson. "The Role of the Scientist in Collaborative Environmental Policy Making." MIT-USGS Science Impact Collaborative. ([PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard_fsonfinal))
 
-Amengual, Matthew. "Incorporating Local Knowledge Into Joint Fact Finding." MIT-USGS Science Impact Collaborative. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/amengual_final))
+Amengual, Matthew. "Incorporating Local Knowledge Into Joint Fact Finding." MIT-USGS Science Impact Collaborative. ([PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/amengual_final))
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ Amengual, Matthew. "Incorporating Local Knowledge Into Joint Fact Finding." MIT-
 
 ### Action learning and practice
 
-Action learning, embedded or "social" learning, theories of practice, communities of practice (knowledge networks). ([PDF]({{< baseurl >}}/resources/read9))
+Action learning, embedded or "social" learning, theories of practice, communities of practice (knowledge networks). ({{% resource_link ea36214b-61c2-938b-fccd-d9bc7d09768d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -289,7 +294,7 @@ Snyder, William, and Xavier de Souza Briggs. "[Communities of Practice: A New to
 
 ### The politics and use of evaluation research
 
-Truth tests and utility tests, demonstration theory of social change, media and public consumption. ([PDF]({{< baseurl >}}/resources/read10))
+Truth tests and utility tests, demonstration theory of social change, media and public consumption. ({{% resource_link db1195d1-178a-727a-6435-993fb376551e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -315,7 +320,7 @@ Rossi, Peter, Mark Lipsey, and Howard Freeman. "The Social Context of Evaluation
 
 ### Research writing for non-academic readers
 
-Research briefs, communication channels, writing support, editing styles. ([PDF]({{< baseurl >}}/resources/read11))
+Research briefs, communication channels, writing support, editing styles. ({{% resource_link e4d66ad4-6482-2a4c-64ec-b58c582e9076 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -329,7 +334,7 @@ Research briefs, communication channels, writing support, editing styles. ([PDF]
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Student briefs and knowledge-in-use cases. ([PDF]({{< baseurl >}}/resources/read12_13))
+Student briefs and knowledge-in-use cases. ({{% resource_link 9f9b87c4-731e-8673-6a6d-be6206237823 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
