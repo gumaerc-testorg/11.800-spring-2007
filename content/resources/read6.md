@@ -7,6 +7,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: read6.pdf
 uid: 7edd7756-6c2c-e4f1-81b0-8c17b59b10fd
 ---
 This resource contains reading tips and study questions on diffusion of innovation, creating and diffusing innovation, "structured" diffusion, replication, and mimicking.
-

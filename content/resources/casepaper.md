@@ -6,6 +6,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: casepaper.pdf
 uid: 281c5a01-256f-3fa7-1541-692d16b6eefa
 ---
 This resource contains guidelines and instructions for a case analysis assignment.
-

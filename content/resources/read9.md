@@ -7,6 +7,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: read9.pdf
 uid: ea36214b-61c2-938b-fccd-d9bc7d09768d
 ---
 This resource contains reading tips and study questions on action learning, embedded or "social" learning, theories of practice, and communities of practice (knowledge networks).
-

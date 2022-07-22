@@ -7,6 +7,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: read4.pdf
 uid: cf0df5a1-dfa8-5f6b-61fb-11757eed6631
 ---
 This resource contains reading tips and study questions on frames and persuasion, storytelling, metaphor, alignment among frames, institutional context, and policy and political streams.
-

@@ -6,6 +6,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 1c7842c3-3ef0-c5da-7075-03a7e696b172
 ---
 This resource contains lecture notes on diffusion of innovation, creating and diffusing innovation, "structured" diffusion, replication, and mimicking.
-

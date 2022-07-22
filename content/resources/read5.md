@@ -6,6 +6,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: read5.pdf
 uid: da876123-42a3-8617-3d95-49d7e77faad1
 ---
 This resource contains reading tips and study questions on paradigms and fads, design and urban form, urban utopias, popular culture, and the Good City.
-

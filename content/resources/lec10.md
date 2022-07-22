@@ -7,6 +7,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec10.pdf
 uid: f0f8424c-360d-7898-504b-3999ad6e9a80
 ---
 This resource contains lecture notes on the politics and use of evaluation research, truth tests and utility tests, and demonstration theory of social change, media and public consumption.
-

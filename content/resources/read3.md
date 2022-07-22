@@ -7,6 +7,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: read3.pdf
 uid: 0fa09fe6-2b16-123a-5aec-dcafa071c7f1
 ---
 This resource contains reading tips and study questions on agendas and the policy process, the importance of agenda-setting and other "pre-decision" processes in policymaking, the Kingdon model and its critics, and the role of narrative.
-

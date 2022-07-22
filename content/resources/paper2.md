@@ -5,6 +5,7 @@ file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper2.pdf
 uid: af594d07-054d-d56a-15ea-985637fcd93f
 ---
 This resource contains an example of a completed final case paper.
-
