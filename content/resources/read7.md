@@ -5,6 +5,7 @@ description: This resource contains reading tips and study questions on case of 
   political and fiscal context, images of ghetto poverty, and the Hurricane Katrina
   media effect.
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/2a6da99896a6a2c4bbb57f59e37e7ce9_read7.pdf
+file_size: 19360
 file_type: application/pdf
 learning_resource_types:
 - Readings
