@@ -4,6 +4,7 @@ description: This resource contains lecture notes on the case of anti-poverty po
   and research, the moving to opportunity experiment as a social policy case, political
   and fiscal context, images of ghetto poverty, and the Hurricane Katrina media effect.
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/a105fca2b7d2294689326ffe80fffe2c_lec7.pdf
+file_size: 31159
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
