@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed final case paper.
-file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/af594d07054dd56a15ea985637fcd93f_paper2.pdf
+file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/af594d07054dd56a15ea985637fcd93f_paper2.pdf
 file_size: 102983
 file_type: application/pdf
 learning_resource_types:
