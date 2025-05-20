@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains lecture notes on\tframes and persuasion, storytelling,\
   \ metaphor, alignment among frames, institutional context, and policy and political\
   \ streams."
-file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/2ea6b0fd8c61e6550add6958a77f676d_lec4.pdf
+file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/2ea6b0fd8c61e6550add6958a77f676d_lec4.pdf
 file_size: 26555
 file_type: application/pdf
 learning_resource_types:

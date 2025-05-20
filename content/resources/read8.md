@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains reading tips and study questions on science in
   environmental policy disputes, science-intensive disputes, "experts for hire", and
   joint fact finding.
-file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/03abf987e0cc8523f3bd19ff01d6b254_read8.pdf
+file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/03abf987e0cc8523f3bd19ff01d6b254_read8.pdf
 file_size: 22327
 file_type: application/pdf
 learning_resource_types:
