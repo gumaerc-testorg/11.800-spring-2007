@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on action learning and practice,
   embedded or "social" learning, theories of practice, and communities of practice
   (knowledge networks).
-file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/0414e808090ab0d111ded7639b91456d_lec9.pdf
+file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/0414e808090ab0d111ded7639b91456d_lec9.pdf
 file_size: 32371
 file_type: application/pdf
 learning_resource_types:

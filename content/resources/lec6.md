@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on diffusion of innovation, creating
   and diffusing innovation, "structured" diffusion, replication, and mimicking.
-file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/1c7842c33ef0c5da707503a7e696b172_lec6.pdf
+file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/1c7842c33ef0c5da707503a7e696b172_lec6.pdf
 file_size: 21250
 file_type: application/pdf
 learning_resource_types:
