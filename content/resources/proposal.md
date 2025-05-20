@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an example of a proposal for the final case paper.
-file: /ol-ocw-studio-app/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/f7060d1004ab12d818c2c329d59d2162_proposal.pdf
+file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/f7060d1004ab12d818c2c329d59d2162_proposal.pdf
 file_size: 9886
 file_type: application/pdf
 learning_resource_types:
