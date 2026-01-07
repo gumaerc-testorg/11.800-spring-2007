@@ -63,7 +63,7 @@ Friedmann, John. _Planning in the Public Domain: From Knowledge to Action_. Prin
 
 Meyerson, Martin, and Edward Banfield. _Politics, Planning, and the Public Interest_. New York, NY: Free Press, 1964, pp. 303-329.
 
-Peirce, Charles S. "{{% resource_link "c57fb67a-3dbb-4e63-8642-6aef4542224d" "The Fixation of Belief" %}}." _Popular Science Monthly_ 12 (1877): 1-15.
+Peirce, Charles S. "[The Fixation of Belief](http://oregonstate.edu/instruct/phl201/modules/peirce/peirce_print.pdf)." _Popular Science Monthly_ 12 (1877): 1-15.
 
 Lindblom, Charles E. "The Science of Muddling Through." _Public Administration Review_ 19 (1959): 79-88.
 
@@ -129,7 +129,7 @@ Schon, Donald, and Martin Rein. _Frame Reflection: Toward the Resolution of Intr
 
 "The Framing Wars." _New York Times Magazine_, July 17, 2005.
 
-{{% resource_link "db5fa09b-0a5b-4968-96bc-260dfd75d844" "The Frameworks Institute" %}}
+[The Frameworks Institute](http://www.frameworksinstitute.org/)
 
 ### Recommended
 
@@ -279,7 +279,7 @@ Friedmann, John. _Planning in the Public Domain_. Princeton, NJ: Princeton Unive
 
 Argyris, Chris. _Knowledge for Action_. San Francisco, CA: Jossey-Bass, 1993, Introduction, pp. 15-31, chapter 2, pp. 98-99. ISBN: 9781555425197.
 
-Snyder, William, and Xavier de Souza Briggs. "{{% resource_link "773b3e71-69e0-454f-96c3-dbe108d3f99a" "Communities of Practice: A New tool" %}}." IBM Center for the Business of Government, pp. 4-25.
+Snyder, William, and Xavier de Souza Briggs. "[Communities of Practice: A New tool](http://www.businessofgovernment.org/report/communities-practice-new-tool-government-managers)." IBM Center for the Business of Government, pp. 4-25.
 
 
 {{< tdclose >}}
